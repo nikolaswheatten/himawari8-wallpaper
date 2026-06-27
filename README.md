@@ -6,7 +6,7 @@ Image data is provided by [NICT](https://www.nict.go.jp/) (Japan).
 
 ## Download
 
-Get `himawari8.exe` from the [Releases](https://github.com/himawari8-wallpaper/himawari8-wallpaper/releases) page. No runtime dependencies — just download and run.
+Get `himawari8.exe` from the [Releases](https://github.com/nikolaswheatten/himawari8-wallpaper/releases) page. No runtime dependencies — just download and run.
 
 ## Quick start
 
