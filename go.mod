@@ -1,4 +1,4 @@
-module github.com/himawari8-wallpaper/himawari8
+module github.com/nikolaswheatten/himawari8-wallpaper
 
 go 1.22
 

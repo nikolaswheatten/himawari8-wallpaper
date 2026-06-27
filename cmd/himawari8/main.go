@@ -10,10 +10,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/himawari8-wallpaper/himawari8/internal/autostart"
-	"github.com/himawari8-wallpaper/himawari8/internal/himawari"
-	"github.com/himawari8-wallpaper/himawari8/internal/instance"
-	"github.com/himawari8-wallpaper/himawari8/internal/wallpaper"
+	"github.com/nikolaswheatten/himawari8-wallpaper/internal/autostart"
+	"github.com/nikolaswheatten/himawari8-wallpaper/internal/himawari"
+	"github.com/nikolaswheatten/himawari8-wallpaper/internal/instance"
+	"github.com/nikolaswheatten/himawari8-wallpaper/internal/wallpaper"
 )
 
 var (
